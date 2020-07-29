@@ -63,6 +63,153 @@ going on within a context of practical design demands. This "great deal more"
 provides evidence, if such is still needed, of the epistemological difference
 between applied science and engineering. (p107)
 
+## The Mathematical Disposition of Structural Engineers (Gainsburg)
+
+<https://www.jstor.org/stable/30034962>
+
+
+The most intractable problems I observed stemmed from what I came to see as
+the fundamental problem of structural engineering: that the phenomena at the
+center of the engineers' work (the structures and their behaviors) were nonexistent
+or inaccessible. Three of the observed tasks concerned buildings
+that did not yet exist; the fourth was part of the evaluation of an existing building
+to which the engineers' only access, essentially, was 50-year-old drawings. This
+fundamental problem distinguishes the activity of structural engineers (and other
+design workers) from that of scientists, who usually have empirical data for the
+phenomena they study.
+
+
+Structural engineering is a bootstrapping process. The engineer makes initial
+rough design assumptions to get started, then design and analysis inform each
+other as they converge to a final state through repeated iterations.
+Unfortunately, an empirical test of the "correctness" of the design or
+is rarely possible (short of waiting to see if the constructed building
+ultimately performs or fails; even then it may be impossible to trace failure
+back to a specific design or analysis solution generated perhaps decades
+earlier).
+
+
+Students and engineers must justify their results, but their proving practices
+diverge as well. In school mathematics, starting assumptions (the givens of
+the problem and mathematical axioms and postulates) are accepted as true-the
+student need not establish their accuracy-and the real challenge is to
+construct a chain of logic linking them to the desired end statement. For the
+engineers, many of the starting assumptions-simplifications of the design and
+environmental conditions-were not established, and identifying appropriate
+ones and justifying their accuracy were typically the main challenges. Once
+the assumptions were set, proving that the design was structurally sound was
+usually mathematically trivial, requiring little more than performing a
+calculation whose steps appeared in a codebook or had been memorized, or
+activating the "solve" function of a computer program. Also, the engineers
+practiced other forms of justification besides mathematical proof. That a
+design satisfied adeductive argument for structural soundness was
+insufficient rationale for building it. It also had to be justifiable on the
+bases of feasibility, available materials, labor capacity, budget, and time,
+as well as on the less tangible but arguably more crucial grounds that the
+design solution and the method that yielded it made sense and "felt good" to
+the engineer.
+
+
+Underlying these and other mathematical practices I observed was a phenomenon
+that the engineers referred to as "engineering judgment," which they found hard to
+articulate even though they all seemed to know it when they saw or used it. In my
+analysis, engineering judgment comprised the decisions engineers made about
+resources and methods and their relative statuses. The engineers admired engineering judgment, recognizing it as a commodity hard-won over years on the job.
+In some sense, the engineers equated engineering with the exercise of engineering
+judgment; at least, what inspired engineers to identify colleagues as expert had more
+to do with the ability to make judgments than to apply and perform mathematics.
+Engineering judgment covered more than the use of mathematics, but it
+subsumed decisions about mathematical methods and results. Therefore,
+understanding the mathematical disposition of engineers first requires an
+analysis of the broader phenomenon of engineering judgment.
+
+Engineering judgment often entailed anonmathematical decision about a
+situation that could not be adequately mathematized; that is, it sometimes
+replaced mathematical resources, bridging unmathematizable gaps in the
+analytic process. Engineering judgment and proof were in some sense
+opposites. Proof was mathematical and deductive, and where proof was
+possible, judgment was unnecessary. Of course, engineering judgment played an
+important role in proof by providing underlying, unprovable starting
+assumptions or by assessing how realistic were a proof's conclusions.
+Conversely, however, engineering judgment had no recourse to proof; it could
+not be verified (without, as mentioned earlier, waiting years for the
+building to be constructed and to fail). Finally, engineering judgment only
+concerned predictions about structural behavior, environmental conditions, or
+other physical phenomena. It did not cover judgments about procedural,
+political, managerial, or organizational expediency.
+
+Even when mathematical analysis "proved" a design sound, the engineers used judgment to make a
+final call on the reasonableness of the analysis or design. That judgment could adopt
+a higher, more conservative standard than the proof or a looser one. The resources
+the engineers drew on to judge the soundness of their methods, behavioral assumptions, and solutions could be theoretical, mathematical, physical, visual, intuitive,
+social, or experiential.
+
+Decisions about the precision of a value or the resolution level for analysis
+pervaded the observed tasks. This was an unavoidable consequence of the fact that
+the structures being analyzed only existed via representations-drawings or
+computer models-that were necessarily simplified and approximate. The 
+constraints of time and cost further militated against precision and highly
+articulated analytical methods. At times, especially early in a project,
+anything beyond a rough estimate was inappropriate and useless.
+
+
+Another critical kind of judgment the engineers had to make was whether to
+repair an unacceptable analytic result by modifying the design or by changing
+the assumptions underlying the mathematical model. Modifications to
+analytically unacceptable designs invariably add size, weight, and cost, so
+are undesirable; yet, altering the model to yield a more favorable result
+risks inaccurately representing the structure and its behavior and obscuring
+potential failure.
+
+Judgment about models could be further complicated when the models were
+embedded in technological tools that made the mathematical methods and
+assumptions less transparent or manipulable.
+
+Despite the deductive nature of mathematical proofs, the engineers did not
+automatically assign them the power of final authority. Aware of the
+uncertainty of the underlying assumptions (and the possibility of calculation
+error), the engineers crosschecked mathematically derived results against
+other criteria, as in the previous episode, and frequently rejected them. On
+occasion, they even rejected proven results that they felt were deductively
+sound, because they were impractical. In these cases, the engineers relied on
+judgment to convince themselves that overriding the proof would be safe and
+justifiable.
+
+Revisionism may be denounced by historians, but it is key to the successful
+accomplishment of engineers' work. The information they convey in calculation
+packages and presentations enables external communication, evaluation, future
+changes, and accountability, where a true rendition of the process would merely
+obfuscate. This final, clean, mathematical rationale is usually generated after the
+fact and, as such, recalls the JPFs' post hoc mathematical rationalization as well as
+a related phenomenon among academic mathematicians, who consider the formal,
+polished, linear argument-their finished product-to be the "real math," whereas
+the informal, subjective, messy process that generated it goes unacknowledged and
+undocumented.
+
+
+Kevin claimed he could analyze today's projects entirely with these approximate
+methods, but industry norms oblige him to use computers. He admitted to using
+computerized analyses, post hoc, to justify solutions he had attained using "classical" (approximate) methods:
+
+> Practically speaking, could Iget it through a city building department? No.... Could
+I get it through a peer reviewer? No. Everyone in the industry believes in computers.
+So the issue for me, the challenge, is to make the computer come up with the right
+answer. I use all the classical methods to figure out whathe answer ought to be, and
+then I use that to figure out exactly how I'm going to arrange my model.
+
+(According to Vick [2002], Kevin's ability to jump to an obvious solution and use
+formal analysis later to confirm it is a hallmark of engineering expertise).
+
+
+Indeed, characterizing the role of mathematics ineveryday structural engineering
+work is complicated. When directly asked how they viewed the role of mathematics
+in their work, the engineers repeatedly invoked the metaphor of a tool. For them,
+mathematics, like other tools of their trade, was necessary but not sufficient; their
+work required it, but its use, in turn, required judgment. The ambiguous status of
+mathematics was the naturally ambiguous status of any essential tool. One cannot
+build a house without a hammer, so the hammer is eminent, but it would be ludicrous to equate house-building with hammer-using and equally inaccurate to equate
+structural engineering with mathematics-using.
+
 ## The Civilized Engineer (Florman)
 
 Strictly speaking, the engineering profession came into being in the
