@@ -40,11 +40,28 @@ Finally, some remarks about the consensus on stability in the 1920s, which
 epitomizes the essentially engineering nature of the flying-quality work. The
 conclusion that airplanes ought to be inherently stable but not too much so
 was a judgment rendered, not from careful delibration by an individual or
-individuals, but mor eor less instinctively by the flying-quality community
+individuals, but more or less instinctively by the flying-quality community
 as a whole. It was arrived at gradually in the first three decades of the
 century by relating the growing, objective knowlege of stabilty and control
 to the similarly growing body of subjective piloting experience with
-expanding flying tasks.
+expanding flying tasks. The otucome was a balance, or tradeoff, between
+conflicting requirements—control versus stability—of a kidn that engineers
+often find necessary. Teh necessity, here, however, did not arise, as
+engineering tradeoffs often do, for economic reasons. Neither did it derive,
+of itself, from purely theoretical requirements—it came into being because of
+the practical needs and limitations of teh human pilot. The balance therefore
+could not have been achieved on purely intellectual grounds and without
+extensive flight experience. It summarized a practical design judgment (based
+in this case on subjecive opinion) of a sort that cannot be avoided in
+engineering. Achieving such judgment—and these remarks apply equally to the
+flying-quality work as a whole—involved elements that can properly be
+regarded as science (e.g., teh analysis of dynamic response by applied
+mathematicians). Predominantly, however, it called for a great deal more than
+simply the applicaiton of scientific knowledge and principles. It required a
+complex interaction of intellectual and experiential elemntes reacting to and
+going on within a context of practical design demands. This "great deal more"
+provides evidence, if such is still needed, of the epistemological difference
+between applied science and engineering. (p107)
 
 ## The Civilized Engineer (Florman)
 
