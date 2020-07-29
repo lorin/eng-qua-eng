@@ -3,7 +3,6 @@
 A collection of writings by engineers about engineering. 
 
 
-
 ## What Engineers Know and How They Know It (Vincente)
 
 This view of technology-and hence engineering-as other than science accords
@@ -29,8 +28,23 @@ If, with philosopher Philip Rhinelander, we take wisdom to be "the art of making
 
 Functional failure, presumptive anomaly, and the need to reduce uncertainty in design thus appear as three distinct, if often concurrent, driving forces (or sources) for the growth of engineering knowledge (p47).
 
+A pilot and aircrqaft, taken together, form a single dynaic system, with
+feedback loops to the pilot via the feel of the cockpit controls plus cues
+from instruments and from vehicle orientation and acceleration. The pilot is a dynamic part of this *closed-loop system* (to use modern terminology) and sense him- or herself as such. (p76)
 
+The background for this reversal (that is, the quarter century in which the aeronautical community was blinded by concern for the long-period oscillation) provides a cautionary example of how preconceived, uncritical use of mathematical theory can mislead in practice. (p94)
 
+The history of flying qualities also illustrates what Constant calls "traditions of practice" in technology, which he defines as "conventional system[s] for accomplishing a specified technical task." (p106)
+
+Finally, some remarks about the consensus on stability in the 1920s, which
+epitomizes the essentially engineering nature of the flying-quality work. The
+conclusion that airplanes ought to be inherently stable but not too much so
+was a judgment rendered, not from careful delibration by an individual or
+individuals, but mor eor less instinctively by the flying-quality community
+as a whole. It was arrived at gradually in the first three decades of the
+century by relating the growing, objective knowlege of stabilty and control
+to the similarly growing body of subjective piloting experience with
+expanding flying tasks.
 
 ## The Civilized Engineer (Florman)
 
