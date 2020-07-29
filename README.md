@@ -18,15 +18,28 @@ constructive knowledge of the engineer is the knowledge needed to implement
 that art. Technological knowledge in this view appears enormously richer and
 more interesting than it does as applied science. (p4)
 
-
 Engineering can, in fact, be defined in terms of these ends, as in the following quotation from
 another British engineer, G.F.C. Rogers:
 
 > Engineering refers to the practice of organizing the design and construction [and, I would add, operation] of any artifice which transforms the physical world around us to meet some recognized need. (p6)
 
+Since calculation of practical viscous flows was beyond the reach of theory in the 1930s (difficulties exist even today), profile drag and other aerodynamic characteristics of airfoil sections had to be found by testing wings in a wind tunnel and subtracting out the calculated plaform effects. Development of airfoils was thus largely an empirical activity (p20).
+
+If, with philosopher Philip Rhinelander, we take wisdom to be "the art of making correct decisions on insufficient evidence, under conditions of uncertainty," then good design judgment clearly qualifies as a form of wisdom. (p46)
+
+Functional failure, presumptive anomaly, and the need to reduce uncertainty in design thus appear as three distinct, if often concurrent, driving forces (or sources) for the growth of engineering knowledge (p47).
+
+
+
+
 ## The Civilized Engineer (Florman)
 
-Strictly speaking, the engineering profession came into being in the eigteenth century when science was first applied to the solution fo technical problems. But by adhering ot such a standard-by insisting tha twihtout scinece there is no engineering-we would exclude from our family tree many geniuses, from the builders fo the pyramids to the inventors of the steam engine, and this we refuse to do. (p26)
+Strictly speaking, the engineering profession came into being in the
+eigteenth century when science was first applied to the solution fo technical
+problems. But by adhering ot such a standard-by insisting that without
+scinece there is no engineering-we would exclude from our family tree many
+geniuses, from the builders fo the pyramids to the inventors of the steam
+engine, and this we refuse to do. (p26)
 
 No matter how closely modern engineering becomes idetnified with science, no matter how electronic or theoretical its practice, no matter how much a group enterprise it may be, the end product of which seems remote and abstract, it can never be-should never be- servered from its origins in craftsmanship (p29).
 
