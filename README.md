@@ -274,3 +274,42 @@ There's never enough time to do it right, but somehow, there's always enough tim
 You really understand something the third time you see it (or the first time you teach it.)
 
 
+
+## The Reflective Practitioner (Schön)
+
+Chapter 6: Reflective practice in the science-based professions.
+
+But for all of their complexity, these studies still treat the process of
+clinical diagnosis as a mapping of cues in the present situation to the
+clinician's theories of disease and methods of treatment. If we turn from the
+model of Technical Rationality to the actual practice of science-based
+professionals, however, it is clear that technical problem solving is a
+radically incomplete description of what engineers, agronomists, and
+physicians actually do.
+
+Faced with unexpected and puzzling phenomena, the inquirers made initial
+*descriptions* which guided their further investigations. Where do such
+descriptions come from? They are, at least on some occasions, outcomes of
+reflections on a perceived similarity, a process which in the previous
+chapter I called *seeing as*.
+
+Kuhn calls such processes "thinking from exemplars."
+
+Paintbrush as pump is an example of what I mean by a generative metaphor.
+
+What makes the process one of metaphor making, rather than simply of describing, is that the new putative description already belongs to what is initially perceived as a different, albeit familiar, thing; hence, everything one knows about pumping has the potential of being brought into play in this redescription of painting.
+
+Thus in technological development as in scientific research, inquirers can sometimes figure out how to solve unique problems or make sense of puzzling phenomena by modelling the unfamiliar on the familiar.
+
+But the idea of reflection on *seeing-as* suggests a direction of inquiry into processes which tend otherwise to be mystified and dismissed with the terms "intuition" or "creativity," and it suggests how these processes might be placed within the framework of reflective conversation with the situation which I have proposed as a partial account of the arts of engineering design and scientific investigation.
+
+
+What the students seem to be learning was, as Aida said, to take initiative in solving problems for themselves, to be skeptical of outside authority, to settle disagreements by experiment. But they may have been learning more than this.
+
+
+These students, at any rate, seemed to be learning to model the unfamiliar on the familiar and to reframe their questions around the changes which resulted unexpectedly from their actions.
+
+
+Nevertheless, as he became more fully aware of the methodological difficulties in constructing the model and of the dilemmas of implementing it, he was led to restructure his image of intervention. It would not be outside experts but community members themselves who would use the nutrient flow model idea to diagnose their own malnourishment problems and design their own interventions. With this change, community learning became an objective equal in importance to the reduction of malnourishment. And as a consequence, community members—who might have figured as parts of the social context of technical practice—became problem-solving agents.
+
+As Wilson sought to create at the *Hogar* the conditions for a Cogwheel Experiment on malnourishment, he had to frame and reflect on a new problem, that of involving and guiding the community members he wished to adopt as co-inquirers.
