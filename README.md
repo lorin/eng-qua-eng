@@ -210,6 +210,8 @@ mathematics was the naturally ambiguous status of any essential tool. One cannot
 build a house without a hammer, so the hammer is eminent, but it would be ludicrous to equate house-building with hammer-using and equally inaccurate to equate
 structural engineering with mathematics-using.
 
+
+
 ## The Civilized Engineer (Florman)
 
 Strictly speaking, the engineering profession came into being in the
@@ -220,6 +222,24 @@ geniuses, from the builders fo the pyramids to the inventors of the steam
 engine, and this we refuse to do. (p26)
 
 No matter how closely modern engineering becomes idetnified with science, no matter how electronic or theoretical its practice, no matter how much a group enterprise it may be, the end product of which seems remote and abstract, it can never be-should never be- servered from its origins in craftsmanship (p29).
+
+In 1805 a noted French architect announced that "in order to probe the solidity of buildings,
+the complicated calculations, bristling with figures and algebraic quantities, with their 'powers,' 'roots,' 'exponents' and 'coefficients' are by no means necessary (p46)
+
+In 1822 Thomas Tredgold, a celebrated British engineer who had worked his way up from journeyman carpenter,
+observed that "thes ability of a building is inversely proprtional to the science of the builder." (p46)
+
+When, in 1858, W.J.M> Rankine of Scotland
+issued his famous and widely used *Manual of Applied Mechanics*, he sought to put an end to the deplorable
+"separation of tehoretical and practical knowledge." Yet as late as 1872 the author of a 
+*Civil Engineer Pocketbook* stated that he would not refer to Rankine or other exponents of theory because theya re "but little more than striking instances of how completely the most simple facts may be buried out of sight under heaps of mathematical rubbish." (p46)
+
+There are those today who see technological advance in terms of scientific genius, as if engineering were simply the gross application of sublime theory. At the other extreme are the vociferous
+supporters of hands-on ingenuity. (p46)
+
+Some historians of technology take pleasure in crediting scientific advance mostly to craftsman—to the lens-grindres and instrument-makers, to the people of the forge and workbench. These historians make the point that without instruments—from telescopes to atom-smahers—thre would be precious little science. (p46)
+
+In addition to the crucial rule of insturments there is also the tenacious work of the engineering expreimenter—the tinkerer, if you will—that often turns up new facts and relationships long before they are scientifically understood. Aircraft, rocketry, turbines, and semi-conductors are just a few of the many fields in which engineering has led and science has followed.
 
 
  
@@ -313,3 +333,10 @@ These students, at any rate, seemed to be learning to model the unfamiliar on th
 Nevertheless, as he became more fully aware of the methodological difficulties in constructing the model and of the dilemmas of implementing it, he was led to restructure his image of intervention. It would not be outside experts but community members themselves who would use the nutrient flow model idea to diagnose their own malnourishment problems and design their own interventions. With this change, community learning became an objective equal in importance to the reduction of malnourishment. And as a consequence, community members—who might have figured as parts of the social context of technical practice—became problem-solving agents.
 
 As Wilson sought to create at the *Hogar* the conditions for a Cogwheel Experiment on malnourishment, he had to frame and reflect on a new problem, that of involving and guiding the community members he wished to adopt as co-inquirers.
+
+
+# Engineering and the mind's eye (Ferguson)
+
+The scientific age too readily assumes that whatever knowledge may be incorporated in the artifacts of technology msut be derived from science. (xi)
+
+Pyramids, cathedrals, and rockets exist not because of geometry, theory of structures, or thermodynamics, but because they were first pictures—literally visions—in the minds of those who conceived them.
