@@ -221,7 +221,11 @@ scinece there is no engineering-we would exclude from our family tree many
 geniuses, from the builders fo the pyramids to the inventors of the steam
 engine, and this we refuse to do. (p26)
 
-No matter how closely modern engineering becomes idetnified with science, no matter how electronic or theoretical its practice, no matter how much a group enterprise it may be, the end product of which seems remote and abstract, it can never be-should never be- servered from its origins in craftsmanship (p29).
+No matter how closely modern engineering becomes idetnified with science, no
+matter how electronic or theoretical its practice, no matter how much a group
+enterprise it may be, the end product of which seems remote and abstract, it
+can never be-should never be- severed from its origins in craftsmanship
+(p29).
 
 In 1805 a noted French architect announced that "in order to probe the solidity of buildings,
 the complicated calculations, bristling with figures and algebraic quantities, with their 'powers,' 'roots,' 'exponents' and 'coefficients' are by no means necessary (p46)
@@ -239,7 +243,64 @@ supporters of hands-on ingenuity. (p46)
 
 Some historians of technology take pleasure in crediting scientific advance mostly to craftsman—to the lens-grindres and instrument-makers, to the people of the forge and workbench. These historians make the point that without instruments—from telescopes to atom-smahers—thre would be precious little science. (p46)
 
-In addition to the crucial rule of insturments there is also the tenacious work of the engineering expreimenter—the tinkerer, if you will—that often turns up new facts and relationships long before they are scientifically understood. Aircraft, rocketry, turbines, and semi-conductors are just a few of the many fields in which engineering has led and science has followed.
+In addition to the crucial rule of insturments there is also the tenacious work of the engineering expreimenter—the tinkerer, if you will—that often turns up new facts and relationships long before they are scientifically understood. Aircraft, rocketry, turbines, and semi-conductors are just a few of the many fields in which engineering has led and science has followed. (p47)
+
+As for engineering, let us conclude once and for all that it is a blend of art, craft, and science (p48).
+
+The tradition of government support for engineering survived the French
+Revolution. In fact, it was the revolutionary government, in 1794, that
+established the Ecole Polytechnique. That institution, soon to become world
+renowned, opened with four hundred students and boasted on its staff the noted
+mathematicians Lagrange and Laplace. A competitive examination, based chiefly
+on mathematics, dictated admissions. Out of this institution, and others of its
+kind, there evolved a technocratic elite that has ever since played a prominent
+role in French affairs. (p49)
+
+John Smeaton, builder of bridges, harbors, and lighthouse, began to call himself a "civil engineer" around 1750. THe term was intended to rid his profession of the disagreeable association with military affairs. (p51)
+
+While practically all British engineers continued to be trained by
+apprenticeship—the only university chairs of engineering were at Glasgow,
+Edinburgh, and University College in London—the concept of the French
+*polytechnique* was taking hold throughout a technologically resurgent Europe. (p54)
+
+Britain—fountainhead of teh Industrial Revolution, home of Telford and Rennie,
+giants of bridge building; Brunel, conceiver of steamships; Stphenson, father
+of locoomotives; the native land of Smeaton, Watt, and McAdam—had forfeited
+forever in preeminence. The very independence of its institutitions, including
+the apprenticeship practices of the engineers and their societies, had impeded
+the requisite cooperative national effort. Not until 1889 did Parliament
+provide substantial funding for technical education, mainly through grants to
+city universities. Cambridge and Oxford followed reluctantly. (p54)
+
+On the North American continent, technology evolved out of hte needs of frontier living. Tools and techniques were brought from Europe, but the relative isolation and the immediate problems of pioneering early encouraged the flowing of "Yankee ingenuity." Professional engineering was virtually non-existent. (p55)
+
+These ex-military engineers were useful, but the rapidly developing nation
+clearly needed civilian engineering schools. The example of Europe was not lost
+on intelligent observers, although as in England, the traditional universities
+were hostile to the concept. So were most of the practicing engineers who
+themselves had been trained in the field or in the shop. (p56-57)
+
+In 1870, only one in nine American engineers was a college graduate, and as late as 1916, incredible as it may sound, the figure was only about one in two. In many quarters, the school-taught engineers were regarded with suspicion by the old-timers (p58).
+
+Engineers walked willingly into the corporate jaws, entranced not only by
+attractive salaries and technical challenge, bu talso by visions of bringing
+"efficiency" to factory and office. In the current era of prestigeous business
+schools we tend to forget the brief but intense passion with which engineers
+claimed management as their own. Around the beginning of this century,
+Frederick W. Taylor, a mechanical engineer from a well-to-do Philadelphia
+family, studied the work habits of factory personnel and proposed methods of
+maximizing production. Known first as the "Taylor System," these ideas were
+disseminated broadly as "human engineering," "industrial engineering," and
+"scientific management." FOr a few yeras this new specialty—remembered today
+chiefly for its time and motion studies—achieved great popularity. But labor
+groups resisted what they considered to be an exploitive approach, and many
+engineers regarded the movement as a perversion of engineering methodology. BY
+1916 Taylor's methods were banned in governemnt-funded operations and the vogue
+quickly dissipated. Nevertheless, engineers continued to play a role as
+planners and overseers of technical work. A course called Engineering
+Administration was established in M.I.T. in 1913. In 1932 this specialty became
+a separate department in the School of Engineering.  in 1952, however, the department was transmuted
+into an independent School of Industrial Management. Today the growth of business administration as a sepaerate discipline has served to draw a line buetween engineering and management, though the dstinction can never be absolute (p62).
 
 
  
@@ -340,3 +401,7 @@ As Wilson sought to create at the *Hogar* the conditions for a Cogwheel Experime
 The scientific age too readily assumes that whatever knowledge may be incorporated in the artifacts of technology msut be derived from science. (xi)
 
 Pyramids, cathedrals, and rockets exist not because of geometry, theory of structures, or thermodynamics, but because they were first pictures—literally visions—in the minds of those who conceived them.
+
+# On Line and On Paper: Visual Representations, Visual Culture, and Computer Graphics in Design Engineering (Henderson)
+
+TBD
